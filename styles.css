@@ -109,7 +109,7 @@ border-bottom: 7px solid rgb(70, 69, 69);
 }
 @keyframes movies{
     0%{background-image: url("https://i.cdn.newsbytesapp.com/images/47020211124121245.jpeg"); background-size: 320px 190px;}
-    25%{background-image: url("https://www.heavenofhorror.com/wp-content/uploads/2020/08/unknown-origins-netflix-review.jpg");background-size:320px 19px ;}
+    25%{background-image: url("https://www.heavenofhorror.com/wp-content/uploads/2020/08/unknown-origins-netflix-review.jpg");background-size:320px 190px ;}
     50%{background-image: url("https://lh6.googleusercontent.com/0mVYz6z5FQZu54zEirRP3xEGEpmWnQVDXHwH-Iku7rwcgxxlp0J7Z7L2IrZtmPtqSoD06vfmnHehyS7WXbAumzb2ZNZU2Hjcn6ZP3R0o2_wVrqbvLcI3mog4IWbwOzgMDyBIPJpX"); background-size:320px 190px ;}
     75%{background-image: url("https://ondigitalshop.com/wp-content/uploads/2022/05/AAAABQkoODU7_JFVNg4QywdUd-Lsv2x7vbNc47AP35fCqWXaY0kOEpmCGGv1J-XRm7qqTVA1JnCNHrS8VyIjnWabO6qy7CcTvYAS-lJlgJmR-PLpNbknRReOQFkXCA6Y7Gxhe17Twg.jpg");background-size:320px 190px ;}
     100%{background-image: url("https://i.pinimg.com/originals/bc/40/f5/bc40f5bec685f7b75754874c28d5c0fd.png");background-size:320px 190px ;}
